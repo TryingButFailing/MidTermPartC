@@ -13,6 +13,7 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+//Adding Comment for question 5.
 public class UserProfile 
 {
     
