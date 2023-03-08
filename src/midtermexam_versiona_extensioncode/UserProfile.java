@@ -14,7 +14,6 @@ package midtermexam_versiona_extensioncode;
  * @author dancye, 2019
  */
 
-
 //HERE IS MY COMMENT FOR QUESTION 5 
 
 
